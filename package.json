@@ -1,0 +1,26 @@
+{
+  "name": "kevinwin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinwin/npm-kevinwin.git"
+  },
+  "author": "Kevin Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinwin/npm-kevinwin/issues"
+  },
+  "keywords": [
+    "kevin",
+    "win",
+    "kevin win",
+    "Kevin Nguyen",
+    "Nguyen"
+  ],
+  "homepage": "https://github.com/kevinwin/npm-kevinwin#readme"
+}
